@@ -1,0 +1,2 @@
+# Genymotion-
+آموزش نصب genymotion
